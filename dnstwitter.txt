@@ -33,6 +33,7 @@ twitter.co.uk
 twitter.com
 twitter.com.au
 video.twimg.com
+video-ft.twimg.com
 wr.x.com
 www.twitter.co
 www.twitter.co.uk
